@@ -1,7 +1,7 @@
 {
     "editor.cursorBlinking": "solid",
     "editor.detectIndentation": true,
-    "editor.fontSize": 18,
+    "editor.fontSize": 14,
     "editor.insertSpaces": true,
     "editor.renderWhitespace": "all",
     "editor.tabSize": 4,
